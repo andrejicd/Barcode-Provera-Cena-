@@ -146,7 +146,3 @@ U podešavanjima aplikacije možete uneti **slovo kolone** iz vašeg Excela:
 ---
 
 ---
-
-## 📄 License / Licenca
-
-[MIT License](LICENSE)
